@@ -1,0 +1,14 @@
+C:\Workspace\VB\Labotatorio3\bin\Debug\Labotatorio3.exe.config
+C:\Workspace\VB\Labotatorio3\bin\Debug\Labotatorio3.exe
+C:\Workspace\VB\Labotatorio3\bin\Debug\Labotatorio3.pdb
+C:\Workspace\VB\Labotatorio3\bin\Debug\Labotatorio3.xml
+C:\Workspace\VB\Labotatorio3\obj\Debug\Labotatorio3.vbproj.AssemblyReference.cache
+C:\Workspace\VB\Labotatorio3\obj\Debug\Labotatorio3.vbproj.SuggestedBindingRedirects.cache
+C:\Workspace\VB\Labotatorio3\obj\Debug\Labotatorio3.Form1.resources
+C:\Workspace\VB\Labotatorio3\obj\Debug\Labotatorio3.Resources.resources
+C:\Workspace\VB\Labotatorio3\obj\Debug\Labotatorio3.vbproj.GenerateResource.cache
+C:\Workspace\VB\Labotatorio3\obj\Debug\Labotatorio3.vbproj.CoreCompileInputs.cache
+C:\Workspace\VB\Labotatorio3\obj\Debug\Labotatorio3.exe
+C:\Workspace\VB\Labotatorio3\obj\Debug\Labotatorio3.xml
+C:\Workspace\VB\Labotatorio3\obj\Debug\Labotatorio3.pdb
+C:\Workspace\VB\Labotatorio3\obj\Debug\Labotatorio3.inciso1.resources
